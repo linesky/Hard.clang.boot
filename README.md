@@ -1,2 +1,3 @@
-# Hard.clang.boot
-Hard disk image builder boot simple ckang
+# m68000
+
+m68k  assembly machine code
