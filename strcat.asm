@@ -1,5 +1,4 @@
-#NO_APP
-	.file	"strcat.c"
+
 	.text
 	.align	2
 	.globl	strslen
@@ -93,6 +92,4 @@ main:
 	clr.l %d0
 	unlk %fp
 	rts
-	.size	main, .-main
-	.ident	"GCC: (Debian 10.2.1-6) 10.2.1 20210110"
-	.section	.note.GNU-stack,"",@progbits
+
