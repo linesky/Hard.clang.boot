@@ -1,5 +1,4 @@
-#NO_APP
-	.file	"strhex.c"
+
 	.text
 	.section	.rodata
 .LC0:
@@ -73,6 +72,4 @@ main:
 	clr.l %d0
 	unlk %fp
 	rts
-	.size	main, .-main
-	.ident	"GCC: (Debian 10.2.1-6) 10.2.1 20210110"
-	.section	.note.GNU-stack,"",@progbits
+
