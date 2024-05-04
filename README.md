@@ -2,5 +2,5 @@
 
 m68k  assembly machine code
 
-"as hello.c -o hello.o;gcc hello.o -o hello"
+"as hello.asm -o hello.o;gcc hello.o -o hello"
 
