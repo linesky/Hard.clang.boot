@@ -1,6 +1,4 @@
-# m68000
+#mecanic.gear.simulator
 
-m68k  assembly machine code
-
-"as hello.asm -o hello.o;gcc hello.o -o hello"
+this is a mecanic gear simulator add gear and get the current rotation per minut
 
