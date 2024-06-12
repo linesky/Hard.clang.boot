@@ -9,12 +9,12 @@ def splitss(s:str,i:int):
             print(s1)
         else:
             while s1!="":
-                if len(s1)<i:
+                if len(s1)<ii:
                     print(s1)
                     s1=""
                 else:
                     print(s1[0:ii])
-                    s1=s1[i:]
+                    s1=s1[ii:]
 
 
 
