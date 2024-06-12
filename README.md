@@ -1,10 +1,8 @@
-#mecanic.gear.simulator
+# tty.output
 
-this is a mecanic gear simulator add gear and get the current rotation per minut
-analog clock simulator
+controling a output colununs
+python3 tty.py file.txt 40
 
-
-For gears, give a measurement of how many teeth stop the wheels and the size of the wheel.
 
 
 
