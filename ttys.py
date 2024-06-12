@@ -18,9 +18,9 @@ def splitss(s:str,i:int):
 
 
 
-def readstdin(s:str,arg1:int):
+def readstdin(arg1:int):
 
-    f1=open(s,"r")
+    f1=open("/dev/stdin","r")
     ss=f1.read()
     f1.close()
     splitss(ss,arg1)
@@ -29,7 +29,7 @@ def readstdin(s:str,arg1:int):
     
 print("\x1b[43;37m")
 if len(sys.argv)>1:
-    readstdin(sys.argv[1],int(sys.argv[2]))
+    readstdin(int(sys.argv[1]))
 
 
 
