@@ -13,5 +13,7 @@ controling a output colununs
 
 "cat my.txt |python3 output.txt"
 
+"cat my.txt | python3 sort.py
+
 
 
