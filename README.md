@@ -20,4 +20,7 @@ controling a output colununs
 "cat my.txt | python3 sed.py 'hi' 'hello' "
 
 
+cat file.txt | python3 nl.py
+
+
 
