@@ -8,6 +8,10 @@ controling a output colununs
 
 "cat file.txt | python3 tab.py 8
 
+"python3 view.py my.txt"
+
+
+"cat my.txt |python3 output.txt"
 
 
 
