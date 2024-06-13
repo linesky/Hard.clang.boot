@@ -67,3 +67,7 @@ python3 rand.py 100
 
 python3 sleep 5
 
+python3 expr.py "$a*$b"
+
+
+
