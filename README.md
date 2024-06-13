@@ -11,7 +11,7 @@ controling a output colununs
 "python3 view.py my.txt"
 
 
-"cat my.txt |python3 output.txt"
+"cat my.txt |python3 output.py"
 
 "cat my.txt | python3 sort.py
 
