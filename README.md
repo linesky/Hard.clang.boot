@@ -25,12 +25,12 @@ cat file.txt | python3 nl.py
 cat list.txt | python3 sum.py
 
 
-cat list.txt | python max.py
+cat list.txt | python3 max.py
 
 
-cat list.txt | python min.py
+cat list.txt | python3 min.py
 
 
-python cat.py file.txt
+python3 cat.py file.txt
 
 
