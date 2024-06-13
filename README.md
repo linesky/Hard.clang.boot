@@ -1,4 +1,6 @@
 # tty.output
+useful if you need to convert of .bat .sh into .py
+
 
 controling a output colununs
 
@@ -48,5 +50,5 @@ python3 cat.py file.txt | python3 tail.py 20
 python3 cat.py list.txt | python3 tr.py '\n' '\s'
 
 
-python3 echo hello world 
+python3 echo.py hello world 
 
