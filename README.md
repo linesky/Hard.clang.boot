@@ -37,4 +37,7 @@ python3 cat.py file.txt | python3 marg.py 20
 
 python3 cat.py file.txt | python3 head.py 20
 
+python3 cat.py file.txt | python3 tail.py 20
+
+
 
