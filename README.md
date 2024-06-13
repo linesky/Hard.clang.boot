@@ -52,3 +52,7 @@ python3 cat.py list.txt | python3 tr.py '\n' '\s'
 
 python3 echo.py hello world 
 
+python3 printf.py "hello %s" "$user"
+
+
+
