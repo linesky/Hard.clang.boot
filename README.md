@@ -17,5 +17,7 @@ controling a output colununs
 
 "cat my.txt | python3 grep.py 'hello'"
 
+"cat my.txt | python3 sed.py 'hi' 'hello' "
+
 
 
