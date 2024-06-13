@@ -74,3 +74,5 @@ python3 times.py sleep 5
 
 
 python3 clock.py
+
+python3 process.py
