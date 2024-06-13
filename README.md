@@ -25,6 +25,11 @@ cat file.txt | python3 nl.py
 cat list.txt | python3 sum.py
 
 
+cat list.txt | python max.py
+
+
+cat list.txt | python min.py
+
 
 
 
