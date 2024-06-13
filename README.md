@@ -6,7 +6,7 @@ controling a output colununs
 
 "cat fie.txt | nl | python3 reverse.py"
 
-
+"cat file.txt | python3 tab.py 8
 
 
 
