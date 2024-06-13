@@ -40,4 +40,8 @@ python3 cat.py file.txt | python3 head.py 20
 python3 cat.py file.txt | python3 tail.py 20
 
 
+python3 cat.py list.txt | python3 tr.py '\n' '\s'
+
+
+
 
