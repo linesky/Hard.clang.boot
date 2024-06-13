@@ -15,5 +15,7 @@ controling a output colununs
 
 "cat my.txt | python3 sort.py
 
+"cat my.txt | python3 grep.py 'hello'"
+
 
 
