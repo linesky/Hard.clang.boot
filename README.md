@@ -87,4 +87,6 @@ echo " 10%" > /tmp/percent
 
 "
 
+python3 cp.py file.txt copy.txt
+
 
