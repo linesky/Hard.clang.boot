@@ -80,7 +80,7 @@ python3 process.py
 " 
 echo " 0%" > /tmp/percent.txt
 
-python3 message.py percent.txt
+python3 message.py percent.txt &
 
 echo " 10%" > /tmp/percent
 
