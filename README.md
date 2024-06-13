@@ -54,7 +54,7 @@ python3 echo.py hello world
 
 python3 printf.py "hello %s" "$user"
 
-python3 cat.py | python3 more.py 20
+python3 cat.py list.txt | python3 more.py 20
 
 
 
