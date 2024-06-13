@@ -24,6 +24,11 @@ python3 cat.py file.txt | python3 nl.py
 
 python3 cat.py list.txt | python3 sum.py
 
+python3 for.py 0 10 echo
+
+python3 if.py "$a==$b" ls
+
+
 
 python3 cat.py list.txt | python3 max.py
 
