@@ -76,3 +76,15 @@ python3 times.py sleep 5
 python3 clock.py
 
 python3 process.py
+
+" 
+echo " 0%" > /tmp/percent.txt
+
+python3 message.py percent.txt
+
+echo " 10%" > /tmp/percent
+
+
+"
+
+
