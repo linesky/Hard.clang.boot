@@ -31,5 +31,6 @@ cat list.txt | python max.py
 cat list.txt | python min.py
 
 
+python cat.py file.txt
 
 
