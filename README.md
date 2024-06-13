@@ -22,5 +22,9 @@ controling a output colununs
 
 cat file.txt | python3 nl.py
 
+cat list.txt | python3 sum.py
+
+
+
 
 
