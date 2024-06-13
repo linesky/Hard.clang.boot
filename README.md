@@ -59,6 +59,6 @@ python3 cat.py list.txt | python3 more.py 20
 python3 cat.py list.txt | python3 center.py 80
 
 
- 
+python3 rand.py 100
 
 
