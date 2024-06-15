@@ -1,6 +1,6 @@
 # tty.output
 useful if you need to convert of .bat .sh into .py
-
+for this to work on windows you must replace the words "/dev/stdin" por "CON"
 
 controling a output colununs
 
