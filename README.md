@@ -95,4 +95,6 @@ python3 seq.py 0 20 1
 python3 editor.py new.txt
 
 
+python3 seq.py 0 10 1 | python3 do.py echo
+
 
